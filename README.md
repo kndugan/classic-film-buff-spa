@@ -1,8 +1,8 @@
-# Film Buff
+# Classic Film Buff Single Page Application
 
 ## Description
 
-In this project, I've cleaned up the starter code to enhance the user experience for a Film Buff website. I've used [Bootstrap](https://getbootstrap.com/) to create this site. The site features a mock up cart and check out form. This project helped me add some custom formats to the site within the Bootstrap library. In the start code, the Bootstrap style sheet link was broken, not allowing for the formatting of the cart and check out form. There were also missing images from the starter code which I added to complete the Product list.
+In this project, I've cleaned up the starter code to enhance the user experience for a Classic Film Buff single page application. I've used [Bootstrap](https://getbootstrap.com/) to create this site. The site features a mock up cart and check out form. I've also added a Nav Bar with page routing for easy navigation throughout the site. This project helped me add some custom formats to the site within the Bootstrap library. In the start code, the Bootstrap style sheet link was broken, not allowing for the formatting of the cart and check out form. There were also missing images from the starter code which I added to complete the Product list.
 
 The starter code was provided by MIT xPro.
 
@@ -12,7 +12,7 @@ To run this program, simply open the index.html file in your browser.
 
 ## Roadmap of Future Improvements
 
-Future improvements will include adding a Nav Bar and Footer for additional JavaScript resources.
+Future improvements will include making the site responsive.
 
 ## Questions or Comments?
 
