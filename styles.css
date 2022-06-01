@@ -33,6 +33,10 @@ h4 {
     font-size: 25px;
 }
 
+.nav-anchor {
+    margin-left: 60px;
+}
+
 .all-products {
     display: flex;
     flex-direction: row; 
